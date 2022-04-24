@@ -31,7 +31,9 @@ body {
   border-radius: 6px;
   color: #f1f5f8;
   height: 60px;
-  width: 400px;
+  /* width: 30rem; */
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .color-container p {
